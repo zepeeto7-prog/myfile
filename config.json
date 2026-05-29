@@ -1,13 +1,13 @@
 {
-  "demo_m3u": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ad.m3u",
+  "demo_m3u": "https://raw.githubusercontent.com/zepeeto7-prog/config.json/refs/heads/main/m3ulinks.m3u",
   "demo_txt": "My PlayList",
   "tGran_url": "a",
   "fBook_url": "a",
   "tTok_url": "a",
-  "mApps_url": "",
-  "mApps_txt": "",
-  "cpaMsg_txt": "",
-  "cpaCat_txt": "",
-  "cpaCat_txt2": "",
-  "cpaOffer_url": ""
+  "mApps_url": "a",
+  "mApps_txt": "a",
+  "cpaMsg_txt": "a",
+  "cpaCat_txt": "a",
+  "cpaCat_txt2": "a",
+  "cpaOffer_url": "a"
 }
